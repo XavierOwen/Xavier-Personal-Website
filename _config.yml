@@ -4,22 +4,21 @@ SEOTitle: Xavier Owen | Xavier's Blog
 header-img: img/header-img.jpg
 email: xavierowenvegan@gmail.com
 description: "Better brain, better world | Mathematics, Python, Neuroscience, MATLAB, Data Science, MS Painter, MathJax lover | To learn without thinking is to be reckless, but to think without learning is perilous."
-"关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "Xavier, @Xavier, Xavier's Blog, Blog, Personal Website, Python, MATLAB, Data Science, Microsoft Paint, MathJax, Flutter, JavaScript, 前端, 设计"
 url: "https://xavierowen.me"              # your host, for absolute URL
-baseurl: "host/blog"                              # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "host/blog"                      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+# weibo_username:     huxpro
+zhihu_username:     Xavier
+github_username:    XavierOwen
+# twitter_username:   huxpro
+facebook_username:  Xavier
+linkedin_username:  远星-程-0a9175121
 
 
 
@@ -31,7 +30,7 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+# timezone: CN  
 
 
 
@@ -54,7 +53,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Xavier
 
 # Netease settings
 netease_comment: false
@@ -67,14 +66,14 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: xavierowen.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Better brain, better world"
+sidebar-avatar: /img/avatar-xavier-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
